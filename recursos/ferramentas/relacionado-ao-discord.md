@@ -15,6 +15,11 @@
 > **Descrição:** Verifique os recursos de um servidor por meio de um código de convite instantâneo.\
 > **Link:** [Find Guild Features](https://discord.com/api/invite/\[invitecode])
 
+## Discord Automod Words
+
+> **Descrição:** Um github com palavras de palavrões, onteúdo sexual, caracteres inadequados para você bloquear em seu servidor.\
+> **Link:** [Discord Automod Words](https://github.com/DarkPizza/discord-automod-words)
+
 ## Alternativas ao MEE6[​](https://discordresources.com/resources/tools/discord#alternatives-to-mee6) <a href="#alternatives-to-mee6" id="alternatives-to-mee6"></a>
 
 > **Descrição:** Uma lista de bots do Discord que podem ser usados no lugar do MEE6.\

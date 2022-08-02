@@ -8,4 +8,4 @@ Se você encontrou um erro, um erro de digitação, ou tem um bom recurso que se
 
 xXGustavoXx#0001 - (Dono)\
 [General Sadaf](https://gist.github.com/GeneralSadaf) - Traduzimos [**List of all bots owned by Discord**](https://gist.github.com/GeneralSadaf/e58edfb8158df2680aa90ae897c2e327)\
-[Discord Resources](https://discordresources.com/) - Este site foi inspirado neles.
+[Discord Resources](https://discordresources.com/) - Este site foi inspirado neles. (Também traduzimos algumas coisas de lá)
