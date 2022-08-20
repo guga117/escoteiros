@@ -1,5 +1,5 @@
 ---
-description: >-
+Descrição: >-
   Essa é uma lista com vários recursos útil para Discord, para os iniciantes até
   os especialistas.
 ---
